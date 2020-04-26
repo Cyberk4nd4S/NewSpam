@@ -10,7 +10,7 @@ $ pip2 install mechanize
 
 $ git clone https://github.com/Cyberk4nd4S/NewSpam
 
-$ cd SpamSms
+$ cd NewSpam
 
 $ python2 Spam.py
 
@@ -26,6 +26,6 @@ $ pip2 install requests
 
 $ git clone https://github.com/Cyberk4nd4S/NewSpam
 
-$ cd SpamSms
+$ cd NewSpam
 
 $ python2 Spam.py
